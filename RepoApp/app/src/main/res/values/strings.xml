@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RepositoryTest App</string>
+    <string name="retry">Retry</string>
+    <string name="post_error">Something went Wrong. Please try again</string>
+</resources>
